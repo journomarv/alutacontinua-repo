@@ -24,3 +24,13 @@ Our mission is to teach people to resolve conflicts productively; to promote mut
 
 Our vision is to become and essential and critical resource for communities, NGO’s and governments to effectively deal with areas that are plagued with conflict.
 
+the problem we trying to address
+
+Currently there is no Big Data that is available to the public on what types of conflict is found in South Africa, which can give an early warning, real-time awareness and the ability to give real- time feedback.
+
+Giving people core skills like the ability to resolve conflict productively 
+
+Understanding the root causes of the conflicts found in South Africa and globally.
+
+
+
